@@ -1,0 +1,42 @@
+Audio changes detected at 2025-09-05T21:05:42.054845
+Source commit: 772f187e92e1939f06e8789484822de92f07175a
+Repository: https://github.com/SteamDatabase/GameTracking-Deadlock.git
+--------------------------------------------------
+
+sounds/vo/announcer/female_patron/patron_female_ally_bookworm_killing_streak_01_alt.vsnd_c CRC:004a1abb06 size:75685 UPDATED
+sounds/vo/announcer/female_patron/patron_female_ally_bookworm_killing_streak_02.vsnd_c CRC:00c7060463 size:165419 ADDED
+sounds/vo/announcer/female_patron/patron_female_ally_bookworm_killing_streak_03_alt.vsnd_c CRC:0037c8d5d6 size:113034 UPDATED
+sounds/vo/announcer/female_patron/patron_female_ally_doorman_killing_streak_01.vsnd_c CRC:00b5e1c4ea size:95030 UPDATED
+sounds/vo/announcer/female_patron/patron_female_ally_drifter_killing_streak_01.vsnd_c CRC:00073e9122 size:129696 UPDATED
+sounds/vo/announcer/female_patron/patron_female_ally_drifter_killing_streak_01_alt_01.vsnd_c CRC:003d7699d8 size:129830 UPDATED
+sounds/vo/announcer/female_patron/patron_female_ally_drifter_killing_streak_02.vsnd_c CRC:0074537558 size:124948 UPDATED
+sounds/vo/announcer/female_patron/patron_female_ally_frank_killing_streak_01.vsnd_c CRC:00abc62f0f size:63353 UPDATED
+sounds/vo/announcer/female_patron/patron_female_ally_frank_killing_streak_02.vsnd_c CRC:00569151c6 size:106253 UPDATED
+sounds/vo/announcer/female_patron/patron_female_ally_frank_killing_streak_03.vsnd_c CRC:001eefe5fc size:71011 UPDATED
+sounds/vo/announcer/female_patron/patron_female_ally_punkgoat_killing_streak_01.vsnd_c CRC:002682e43f size:79877 UPDATED
+sounds/vo/announcer/female_patron/patron_female_ally_punkgoat_killing_streak_02.vsnd_c CRC:006975feca size:121804 UPDATED
+sounds/vo/announcer/female_patron/patron_female_ally_punkgoat_killing_streak_03.vsnd_c CRC:00a1247a4b size:89896 UPDATED
+sounds/vo/announcer/female_patron/patron_female_ally_vampirebat_killing_streak_01.vsnd_c CRC:008fc3ec7a size:131176 UPDATED
+sounds/vo/announcer/female_patron/patron_female_ally_vampirebat_killing_streak_02.vsnd_c CRC:0032b31431 size:129104 UPDATED
+sounds/vo/announcer/female_patron/patron_female_ally_vampirebat_killing_streak_03.vsnd_c CRC:0083cffd8f size:115737 UPDATED
+sounds/vo/announcer/female_patron/patron_female_ally_vanguard_defeated.vsnd_c CRC:006f705ecc size:62951 UPDATED
+sounds/vo/announcer/female_patron/patron_female_ally_viper_killing_streak_01.vsnd_c CRC:000468b110 size:100522 UPDATED
+sounds/vo/announcer/female_patron/patron_female_ally_viper_killing_streak_02.vsnd_c CRC:0084fd64d5 size:107787 UPDATED
+sounds/vo/announcer/female_patron/patron_female_ally_viper_killing_streak_03.vsnd_c CRC:003c1dc3d0 size:121973 UPDATED
+sounds/vo/announcer/female_patron/patron_female_enemy_drifter_killing_streak_high_01.vsnd_c CRC:00af0c4902 size:56429 UPDATED
+sounds/vo/announcer/female_patron/patron_female_enemy_drifter_killing_streak_low_01.vsnd_c CRC:005c09eb8d size:127444 UPDATED
+sounds/vo/announcer/female_patron/patron_female_enemy_drifter_killing_streak_medium_01.vsnd_c CRC:00458648e9 size:78895 UPDATED
+sounds/vo/announcer/female_patron/patron_female_enemy_frank_killing_streak_high_01.vsnd_c CRC:009b90166f size:75608 UPDATED
+sounds/vo/announcer/female_patron/patron_female_enemy_frank_killing_streak_medium_01.vsnd_c CRC:00ac56ea81 size:72016 UPDATED
+sounds/vo/announcer/female_patron/patron_female_enemy_mina_killing_streak_high_01.vsnd_c CRC:0076a134e1 size:73062 ADDED
+sounds/vo/announcer/female_patron/patron_female_enemy_mina_killing_streak_medium_01.vsnd_c CRC:002c12fac9 size:71650 ADDED
+sounds/vo/announcer/female_patron/patron_female_enemy_punkgoat_killing_streak_high_01.vsnd_c CRC:00df5e130f size:84660 UPDATED
+sounds/vo/announcer/female_patron/patron_female_enemy_punkgoat_killing_streak_medium_01.vsnd_c CRC:00dbff14d9 size:55482 UPDATED
+sounds/vo/announcer/female_patron/patron_female_enemy_vanguard_defeated.vsnd_c CRC:00d910eb07 size:76869 UPDATED
+sounds/vo/announcer/female_patron/patron_female_enemy_viper_killing_streak_high_01.vsnd_c CRC:0028776d91 size:62306 UPDATED
+sounds/vo/announcer/female_patron/patron_female_enemy_viper_killing_streak_medium_01.vsnd_c CRC:00e2226413 size:72944 UPDATED
+sounds/vo/announcer/female_patron/patron_female_vanguard_ally_capture.vsnd_c CRC:00080f55bc size:68299 UPDATED
+sounds/vo/announcer/female_patron/patron_female_vanguard_ally_capture_attempt.vsnd_c CRC:008ac82769 size:84020 UPDATED
+sounds/vo/announcer/female_patron/patron_female_vanguard_available.vsnd_c CRC:001cbae1da size:80238 UPDATED
+sounds/vo/announcer/female_patron/patron_female_vanguard_enemy_capture.vsnd_c CRC:000aab382d size:50552 UPDATED
+sounds/vo/announcer/female_patron/patron_female_vanguard_enemy_capture_attempt.vsnd_c CRC:0064a85acc size:65993 UPDATED
