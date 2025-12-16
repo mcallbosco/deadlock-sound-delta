@@ -1,0 +1,11 @@
+Audio changes detected at 2025-12-16T23:11:58.373226
+Source commit: 9896c7d016f4481f01bf966662d052ac2162ebb1
+Repository: https://github.com/SteamDatabase/GameTracking-Deadlock.git
+--------------------------------------------------
+
+sounds/vo/shopkeeper/shopkeeper_hotdog_seasonal_t4_magician_henry_01.vsnd_c CRC:00b6df061b size:46065 ADDED
+sounds/vo/shopkeeper/shopkeeper_hotdog_seasonal_t4_magician_henry_02.vsnd_c CRC:004c6b302c size:48010 ADDED
+sounds/vo/shopkeeper/shopkeeper_hotdog_seasonal_t4_magician_henry_03.vsnd_c CRC:00525aa2a1 size:113246 ADDED
+sounds/vo/shopkeeper/shopkeeper_hotdog_seasonal_t4_magician_savannah_01.vsnd_c CRC:0082378b89 size:46065 ADDED
+sounds/vo/shopkeeper/shopkeeper_hotdog_seasonal_t4_magician_savannah_02.vsnd_c CRC:002c0e2f0f size:48010 ADDED
+sounds/vo/shopkeeper/shopkeeper_hotdog_seasonal_t4_magician_savannah_03.vsnd_c CRC:00064b857d size:113246 ADDED
