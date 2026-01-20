@@ -1,0 +1,35 @@
+Audio changes detected at 2026-01-20T22:50:21.233635
+Source commit: 65fa05a67fd462c02792e572845cce512673f9f0
+Repository: https://github.com/SteamDatabase/GameTracking-Deadlock.git
+--------------------------------------------------
+
+sounds/vo/shopkeeper/shopkeeper_hotdog_t4_familiar_01.vsnd_c CRC:00e671821a size:31999 ADDED
+sounds/vo/shopkeeper/shopkeeper_hotdog_t4_familiar_02.vsnd_c CRC:00a945323d size:60516 ADDED
+sounds/vo/shopkeeper/shopkeeper_hotdog_t4_familiar_03.vsnd_c CRC:00d0dd7115 size:28786 ADDED
+sounds/vo/shopkeeper/shopkeeper_hotdog_t4_familiar_04.vsnd_c CRC:008cfa93a3 size:32961 ADDED
+sounds/vo/shopkeeper/shopkeeper_hotdog_t4_familiar_05.vsnd_c CRC:00d465d700 size:30513 ADDED
+sounds/vo/shopkeeper/shopkeeper_hotdog_t4_fencer_01.vsnd_c CRC:00dee58898 size:31895 ADDED
+sounds/vo/shopkeeper/shopkeeper_hotdog_t4_fencer_02.vsnd_c CRC:007c6bbbc4 size:45861 ADDED
+sounds/vo/shopkeeper/shopkeeper_hotdog_t4_fencer_03.vsnd_c CRC:00c218724f size:44649 ADDED
+sounds/vo/shopkeeper/shopkeeper_hotdog_t4_fencer_04.vsnd_c CRC:00dc95e51a size:66224 ADDED
+sounds/vo/shopkeeper/shopkeeper_hotdog_t4_fencer_05.vsnd_c CRC:002841cce9 size:34239 ADDED
+sounds/vo/shopkeeper/shopkeeper_hotdog_t4_necro_01.vsnd_c CRC:0009f1a044 size:56588 ADDED
+sounds/vo/shopkeeper/shopkeeper_hotdog_t4_necro_02.vsnd_c CRC:00307d797e size:44687 ADDED
+sounds/vo/shopkeeper/shopkeeper_hotdog_t4_necro_03.vsnd_c CRC:004b3ca493 size:41059 ADDED
+sounds/vo/shopkeeper/shopkeeper_hotdog_t4_necro_04.vsnd_c CRC:00e5723e91 size:27428 ADDED
+sounds/vo/shopkeeper/shopkeeper_hotdog_t4_necro_05.vsnd_c CRC:003f62fadb size:35636 ADDED
+sounds/vo/shopkeeper/shopkeeper_hotdog_t4_priest_01.vsnd_c CRC:0002091d89 size:32433 ADDED
+sounds/vo/shopkeeper/shopkeeper_hotdog_t4_priest_02.vsnd_c CRC:00df9e99ef size:26447 ADDED
+sounds/vo/shopkeeper/shopkeeper_hotdog_t4_priest_03.vsnd_c CRC:00c054f9c9 size:73277 ADDED
+sounds/vo/shopkeeper/shopkeeper_hotdog_t4_priest_04.vsnd_c CRC:009832bfe0 size:31047 ADDED
+sounds/vo/shopkeeper/shopkeeper_hotdog_t4_priest_05.vsnd_c CRC:0009e8b73b size:35195 ADDED
+sounds/vo/shopkeeper/shopkeeper_hotdog_t4_unicorn_01.vsnd_c CRC:005a1c120c size:24532 ADDED
+sounds/vo/shopkeeper/shopkeeper_hotdog_t4_unicorn_02.vsnd_c CRC:008ee08a7e size:20502 ADDED
+sounds/vo/shopkeeper/shopkeeper_hotdog_t4_unicorn_03.vsnd_c CRC:00b70ec7cd size:27944 ADDED
+sounds/vo/shopkeeper/shopkeeper_hotdog_t4_unicorn_04.vsnd_c CRC:0065256bf0 size:35624 ADDED
+sounds/vo/shopkeeper/shopkeeper_hotdog_t4_unicorn_05.vsnd_c CRC:00e3766b19 size:35510 ADDED
+sounds/vo/shopkeeper/shopkeeper_hotdog_t4_werewolf_01.vsnd_c CRC:00300a9ed5 size:35520 ADDED
+sounds/vo/shopkeeper/shopkeeper_hotdog_t4_werewolf_02.vsnd_c CRC:002702f51f size:22738 ADDED
+sounds/vo/shopkeeper/shopkeeper_hotdog_t4_werewolf_03.vsnd_c CRC:00e2abe90b size:59050 ADDED
+sounds/vo/shopkeeper/shopkeeper_hotdog_t4_werewolf_04.vsnd_c CRC:0094aeaa43 size:39107 ADDED
+sounds/vo/shopkeeper/shopkeeper_hotdog_t4_werewolf_05.vsnd_c CRC:00664520af size:34655 ADDED
