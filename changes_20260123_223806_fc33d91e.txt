@@ -1,0 +1,9 @@
+Audio changes detected at 2026-01-23T22:38:06.871274
+Source commit: fc33d91e4d8964ac110bbe31664dffc09648fe50
+Repository: https://github.com/SteamDatabase/GameTracking-Deadlock.git
+--------------------------------------------------
+
+sounds/vo/announcer/female_patron/patron_female_big_healing_by_kelvin_alt_01.vsnd_c CRC:001335317b size:98729 ADDED
+sounds/vo/announcer/female_patron/patron_female_big_healing_by_kelvin_alt_02.vsnd_c CRC:0015eee9a5 size:105211 ADDED
+sounds/vo/announcer/male_patron/patron_male_enemy_chrono_killing_streak_high_02.vsnd_c CRC:00754df82f size:63388 ADDED
+sounds/vo/announcer/male_patron/patron_male_enemy_magician_killing_streak_high_02.vsnd_c CRC:0088365a15 size:86730 ADDED
