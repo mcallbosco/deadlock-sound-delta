@@ -1,0 +1,6 @@
+Audio changes detected at 2026-03-06T21:50:27.835209
+Source commit: d207eaedbfcc3f88401e51a9b5db52469a06b500
+Repository: https://github.com/SteamDatabase/GameTracking-Deadlock.git
+--------------------------------------------------
+
+sounds/vo/fencer/emote/fencer_pain_death_02.vsnd_c CRC:00ce019ecf size:14743 UPDATED
