@@ -1,0 +1,6 @@
+Audio changes detected at 2026-03-11T04:51:17.862486
+Source commit: d6a4c56e79ccbb100066c89e3fdf26606c179d43
+Repository: https://github.com/SteamDatabase/GameTracking-Deadlock.git
+--------------------------------------------------
+
+sounds/vo/shiv/shiv_select_06.vsnd_c CRC:00fc831d06 size:81182 UPDATED
