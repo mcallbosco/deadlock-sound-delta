@@ -1,0 +1,27 @@
+Audio changes detected at 2026-06-12T11:49:54.475821
+Source commit: a4f9d37f567cd145ffe6d963f49414e6451d6723
+Repository: https://github.com/SteamDatabase/GameTracking-Deadlock.git
+--------------------------------------------------
+
+sounds/vo/spirit_jar/spirit_jar_koth_give_up_01.vsnd_c CRC:00526bbb6e size:56392 ADDED
+sounds/vo/spirit_jar/spirit_jar_koth_give_up_02.vsnd_c CRC:00a8d53494 size:37995 ADDED
+sounds/vo/spirit_jar/spirit_jar_koth_give_up_03.vsnd_c CRC:00756cba71 size:50509 ADDED
+sounds/vo/spirit_jar/spirit_jar_koth_give_up_04.vsnd_c CRC:0047bab801 size:54466 ADDED
+sounds/vo/spirit_jar/spirit_jar_koth_give_up_05.vsnd_c CRC:00e8c4796a size:51325 ADDED
+sounds/vo/spirit_jar/spirit_jar_koth_give_up_06.vsnd_c CRC:00cbd43017 size:69805 ADDED
+sounds/vo/spirit_jar/spirit_jar_koth_give_up_07.vsnd_c CRC:006df99cdf size:51758 ADDED
+sounds/vo/spirit_jar/spirit_jar_koth_give_up_08.vsnd_c CRC:0078955581 size:34343 ADDED
+sounds/vo/spirit_jar/spirit_jar_koth_give_up_09.vsnd_c CRC:008aa87895 size:37401 ADDED
+sounds/vo/spirit_jar/spirit_jar_koth_give_up_09_alt_01.vsnd_c CRC:006ef95265 size:44007 ADDED
+sounds/vo/spirit_jar/spirit_jar_koth_give_up_10.vsnd_c CRC:003a4213e1 size:65886 ADDED
+sounds/vo/spirit_jar/spirit_jar_koth_give_up_10_alt_01.vsnd_c CRC:0083dd38f4 size:71227 ADDED
+sounds/vo/spirit_jar/spirit_jar_koth_warning_01.vsnd_c CRC:00c14bbbb2 size:59097 ADDED
+sounds/vo/spirit_jar/spirit_jar_koth_warning_02.vsnd_c CRC:00a6d7dce0 size:51469 ADDED
+sounds/vo/spirit_jar/spirit_jar_koth_warning_03.vsnd_c CRC:0051724187 size:58490 ADDED
+sounds/vo/spirit_jar/spirit_jar_koth_warning_04.vsnd_c CRC:003b3a7c39 size:54901 ADDED
+sounds/vo/spirit_jar/spirit_jar_koth_warning_05.vsnd_c CRC:00012466ff size:49605 ADDED
+sounds/vo/spirit_jar/spirit_jar_koth_warning_06.vsnd_c CRC:00f0d42653 size:53227 ADDED
+sounds/vo/spirit_jar/spirit_jar_koth_warning_07.vsnd_c CRC:00d22fa16c size:60488 ADDED
+sounds/vo/spirit_jar/spirit_jar_koth_warning_08.vsnd_c CRC:00e7ee0b63 size:48245 ADDED
+sounds/vo/spirit_jar/spirit_jar_koth_warning_09.vsnd_c CRC:00a5710ad7 size:48866 ADDED
+sounds/vo/spirit_jar/spirit_jar_koth_warning_10.vsnd_c CRC:0010386fc3 size:71578 ADDED
